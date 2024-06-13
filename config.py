@@ -22,8 +22,7 @@ API_HASH = getenv("39d926a67155f59b722db787a23893ac")
 BOT_TOKEN = getenv("6818012318:AAHgCOQwJEM8s57IBLVsbbNnsHqzUCartMw")
 
 # Database to save your chats and stats... Get MongoDB:-  https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/mongodb#4.-youll-see-a-deploy-cloud-database-option.-please-select-shared-hosting-under-free-plan-here
-MONGO_DB_URI = getenv("mongodb+srv://vanshfrr:Ml6VgeE6fXVo29mw@vanshfrr.ukmgk1i.mongodb.net/?retryWrites=true&w=majority&appName=vanshfrr
-", None)
+MONGO_DB_URI = getenv("mongodb+srv://vanshfrr:Ml6VgeE6fXVo29mw@vanshfrr.ukmgk1i.mongodb.net/?retryWrites=true&w=majority&appName=vanshfrr", None)
 
 # SUDO USERS
 SUDO_USER = list(
